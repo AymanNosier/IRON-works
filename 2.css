@@ -1,0 +1,520 @@
+
+
+    .ayman
+    {
+       
+       width:1180px;
+       margin:0px auto;
+       
+    
+    }
+     .colorw{
+        color: white;
+        font-variant-position: initial;
+        font-family:'Courier New', Courier, monospace;
+        font-size:15px;
+     }
+     .colorwh
+     {
+         color:white;
+         font-size: 20px;
+    
+    
+     }
+     .colory
+     {
+        color: yellow;
+         
+    
+     }
+     .colora
+     {
+         color: white;
+         font-size: 25px;
+         font-family:cursive;
+         
+     }
+     .colorb
+     {
+         color: yellow;
+         font-size: 20px;
+         font-family:monospace;     
+         
+     }
+     .colorbl
+     {
+         color:black;
+         font-family:'Courier New', Courier, monospace;
+         font-size: 15px;
+         font-style: italic;
+     }
+     b
+     {
+         font-size: 18px;
+         font-family: initial;
+     }
+    .buttonc
+    {
+     margin-left: 20px;
+     padding: 15px;
+      font-size: 20PX;
+      color: white;
+      background-color: black;
+    }
+    .buttonc:hover
+    {
+        background-color: blue;
+    }
+    u
+    {
+        margin-top: 10px;
+        color: yellow;
+    }
+    
+    
+    .container
+    {
+        background-image:url(3.jpg);
+        width:1180px;
+        height:600px;
+        background-size: cover;
+        position: relative;
+        padding:0px 10px;
+        margin:10px auto 0PX AUTO;
+    
+        
+    }
+    .containera
+    {
+      float: left;
+      background:none;
+      padding: 10px;
+      margin: 0px 10px;
+     
+     
+      
+       
+    }
+    .one
+    {
+      height:20px;
+      width:20px;
+      background-size: cover;
+      
+      float:left;
+      padding-right: 5px;
+      cursor: pointer;
+      transition: all 1s ease;
+    }
+    .one:hover
+    {
+    transform:scale(2);
+
+    }
+    
+    .two
+    {
+    float:left;
+    padding-right: 80px;
+    color: white;
+    
+    
+    } 
+    .three
+    {
+        height:50px;
+      width:20px;
+      background-size: cover;
+      padding:20px;
+      cursor: pointer;
+      transition: all 1s ease;
+    }
+    .three:hover
+    {
+        transform: translate(0px,30px);
+
+    }
+    .four:hover
+    {
+        transform: rotate(360deg);
+
+    }
+
+    .four
+    {
+        height:80px;
+      width:80px;
+      background-size: cover;
+      padding:0px 80px;
+      float:left;
+      transition: all 1s ease;
+      cursor: pointer;
+    }  
+    .containerb
+    {
+       float:left; 
+       height: 200px;
+       width:1180px;
+    }
+    .A
+    {
+        float:left;
+       color: yellow;
+    }
+    .B
+    {
+        float:right;
+    }
+    .c
+    {
+        float:left;
+        font-size: 15px;
+        background:none;
+        color: white;
+        text-align: center;
+        padding:15px 10px;
+        border: none;
+        cursor: pointer;
+    }
+    .c:hover
+    {
+        background-color: slateblue;
+    }
+
+    .d
+    {
+        text-align: center;
+        vertical-align: middle;
+        font-size: 60;
+        font-family:fantasy;
+        color: white;
+        width: 1180px;
+        
+        float:left
+    }
+    .e
+    {
+        text-align: center;
+        vertical-align: middle;
+        font-size: 45;
+        font-family:fantasy;
+        color: rgb(7, 6, 6);
+        width: 1180px;
+        padding:100px 0px;
+        float:left;
+    }
+    .menu
+    {
+        background-color: rgb(206, 203, 203);
+        width:1180px;
+        position: static;
+        float: left;
+        padding:0px 10px;
+        margin:0px auto ;
+        
+    }
+    .menua
+    {
+        
+        
+        margin:0px 20px;
+        position: relative;
+        
+        bottom: 150px;
+        
+    }
+    .menuaa:hover
+    {
+        transform: translate(0px,100px) ;
+        z-index: 5;
+    }
+    .menuaa
+    {
+        width:350px;
+        height: 250px;
+        background-image: url(5.jpg);
+        background-size: cover;
+        background-position: center;
+        float: left;
+        margin:0px 15px ;  
+        transition: all 2s ease;
+        z-index: 3;
+         
+    }
+    .menub
+    {
+        
+        
+        margin:auto;
+        background-color: white;
+        font-size: 30px;
+        padding:30px;
+        text-align: center;
+        height: 90px;
+        border: .5PX SOLID;
+        font-family:fantasy;
+        background-color: beige;
+        z-index: 3;
+        position:absolute;
+        transform: translate(50px,150px);
+        
+    
+    }
+    .menuc
+    {
+        margin: 20px 20px 0px 20px ;
+        
+        width:100%;
+        float:left;
+        
+    }
+    .menuca
+    {
+        margin:0px 90px 0px 90px;
+        width:200px;
+        height:200px;
+        clip-path: circle();
+        
+    }
+    .menud
+    {
+        margin:0px  20px;
+        font-size: 20px;
+        color: black;
+        float:left;
+        
+        height: 100px;
+        width: 100%;
+        
+    }
+    .menuda
+    {
+        margin:20px 50px 30px 120px;
+        width:220px;
+        float:left;
+        font-size:30px;
+        font-family:fantasy;
+    }
+    .solider
+    {
+        background-image: url(9.jpg);
+        background-size: cover;
+        background-position: center;
+        height:800px;
+        float: left;
+        width: 1200px;
+        margin:0px auto ;
+        position: relative;
+    }
+    .solidera
+    {
+    
+        float: left;
+    }
+    .soliderab
+    {
+        padding:40px;
+        float:left;
+        font-size: 30px;
+        font-family:fantasy;
+        color:white;
+    }
+    .button
+    {
+        padding: 20px 40px;
+        background-color: yellow;
+        text-align: center;
+        font-size: 25px;
+        color: black;
+        margin-right: 150px;
+        
+    }
+    .button:hover
+    {
+        background-color: blue;
+    }
+    .buttona
+    {
+        padding: 10px 20px;
+        background:none;
+        text-align: center;
+        font-size: 20px;
+        color:white;
+        border: 1px solid yellow;
+        margin: 10px 40px;
+        cursor: pointer;
+        
+    }
+    .buttona:hover
+    {
+        background-color: blue;
+    }
+    .buttonb
+    {
+        padding: 10px 20px;
+        background:none;
+        text-align: center;
+        font-size: 20px;
+        color:black;
+        border: 1px yellow solid;
+        margin: 10px 40px;
+        background-color: yellow;
+        cursor: pointer;
+    }
+    .buttonb:hover
+    {
+        background-color: blue;
+    }
+    
+    .contact
+    {
+        width:1200px;
+        
+        margin:0px auto ;
+        background-color: rgb(199, 194, 194);
+        float: left;
+    }
+    .contacta
+    {
+        float:left;
+        margin:40px 40px 100px 40px;
+        height:700;
+        background-color:yellow;
+        width:1100
+    
+    }
+    .contactaa
+    {
+        float:left;
+        background:gray;
+        height:350px;
+        width: 275px;
+        background-position: center;
+        background-size: cover;
+        color:black;
+        
+    }
+    .contactab
+    {
+        float:left;
+        color: black;
+        height:350px;
+        width: 550px;
+        background-position: center;
+        background-size: cover;
+        background-color: yellow;
+        
+    }
+    .contactb
+    {
+        
+        background-image: url(6.jpg);
+        width: 1200px;
+        background-size: cover;
+        font-size: 30px;
+        font-family:fantasy;
+        float: left;
+        margin: 0px auto;
+    }
+    .contactbb
+    {
+        
+        font-size: 45;
+        font-family:fantasy;
+        color: yellow;
+        
+        padding:50px 90px;
+        float:left;
+    }
+    .happy
+    {
+        width:1200px;
+        float:left;
+        margin:0px auto;
+        background-color:whitesmoke;
+    }
+    .happya
+    {
+        margin:30px;
+        float:left;
+        margin:10px 0px 200px 30px  ;
+    }
+    .happyaa
+    {
+        margin:10px 10px;
+        height:250px;
+        width:330px;
+        background-position: center;
+        background-size: cover;
+        float: left;
+        font-size: 15px;
+        color: black;
+        background-color: white;
+        
+    }
+    .happyab
+    {
+        margin:0px 10px;
+        height:250px;
+        width:400px;
+        background-position: center;
+        background-size: cover;
+        float: left;
+        font-size: 15px;
+        color: black;
+        background-color: white;
+        
+    
+    }
+    .happyb
+    {
+        float:left;
+        background-color: rgb(223, 217, 206);
+        
+    }
+    .happyba
+    {
+        padding: 20px;
+        background-size: cover;
+        float: left;
+        font-size: 15px;
+        color: black;
+        WIDTH:360PX;
+        background-color: rgb(177, 177, 168);
+    }
+    .logo
+    {
+        
+        background-color:yellow;
+        float: left;
+        width: 1200;
+        
+    }
+    #logo
+    {
+        float:left;
+        margin:100px auto;
+        font-size: 25px;
+        font-family:fantasy;
+        color: black;
+    }
+    .tag
+    {
+        background-color:rgb(48, 46, 39);
+        float: left;
+       
+
+    }
+    #tag
+    {
+        float:left;
+        padding:100px 50px 20px 50px ;
+        color:rgb(243, 243, 239);
+        width: 300px;
+        font-size: 20px;
+        
+        
+       
+
+    }
+    
